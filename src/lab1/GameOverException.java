@@ -1,8 +1,7 @@
 package lab1;
 
 /**
- * Thrown by GameModel.doCommand at game termination. The exception contains
- * information about how many points the player got.
+Cambiar competario
  */
 public class GameOverException extends Exception {
 	private final int score;
